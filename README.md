@@ -1,6 +1,6 @@
 # NFT-SYSTEM
 # NFT数字艺术 NFT 盲盒 数藏专家 数字藏品 作品
-# 需要的联系飞机账号  @tt88pay  请备注NFT藏品 是github看到的
+# 需要的联系飞机账号  @ttt88pay  请备注NFT藏品 是github看到的
 
 # 截图如下：
 ![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=f80774d89d1956b4b3c0b8fbdb4dee6e)
